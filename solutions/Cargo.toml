@@ -20,4 +20,6 @@ pbkdf2 = "0.12.2"
 scrypt = "0.11.0"
 hex = "0.4.3"
 sha2 = "0.10.9"
+image = "0.25.6"
+rustface = "0.1.7"        # pure Rust Haar‑cascade detector
 
