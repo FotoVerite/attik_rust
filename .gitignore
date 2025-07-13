@@ -1,0 +1,38 @@
+# Compiled files
+/target/
+
+# Executables and binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test output
+**/*.log
+
+# By-products of rustup or cargo
+/.cargo/
+/Cargo.lock
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sw?
+*.sublime*
+
+# MacOS junk
+.DS_Store
+
+# Backup files
+*~
+*.bak
+
+# Node or frontend if present
+node_modules/
+
+# Coverage and profiling
+/coverage/
+/profdata/
+
+# Misc
+*.tmp

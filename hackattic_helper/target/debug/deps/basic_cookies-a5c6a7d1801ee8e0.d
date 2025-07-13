@@ -1,0 +1,13 @@
+/Users/fotoverite/learning/attik/rust/hackattic_helper/target/debug/deps/basic_cookies-a5c6a7d1801ee8e0.d: /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/lib.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie_lexer.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/linked_list.rs /Users/fotoverite/learning/attik/rust/hackattic_helper/target/debug/build/basic-cookies-12c3e51d59b46337/out/cookie_grammar.rs
+
+/Users/fotoverite/learning/attik/rust/hackattic_helper/target/debug/deps/libbasic_cookies-a5c6a7d1801ee8e0.rlib: /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/lib.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie_lexer.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/linked_list.rs /Users/fotoverite/learning/attik/rust/hackattic_helper/target/debug/build/basic-cookies-12c3e51d59b46337/out/cookie_grammar.rs
+
+/Users/fotoverite/learning/attik/rust/hackattic_helper/target/debug/deps/libbasic_cookies-a5c6a7d1801ee8e0.rmeta: /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/lib.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie_lexer.rs /Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/linked_list.rs /Users/fotoverite/learning/attik/rust/hackattic_helper/target/debug/build/basic-cookies-12c3e51d59b46337/out/cookie_grammar.rs
+
+/Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/lib.rs:
+/Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie.rs:
+/Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie_lexer.rs:
+/Users/fotoverite/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/linked_list.rs:
+/Users/fotoverite/learning/attik/rust/hackattic_helper/target/debug/build/basic-cookies-12c3e51d59b46337/out/cookie_grammar.rs:
+
+# env-dep:OUT_DIR=/Users/fotoverite/learning/attik/rust/hackattic_helper/target/debug/build/basic-cookies-12c3e51d59b46337/out

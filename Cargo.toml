@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "hackattic_helper",
+    "solutions"
+]
+resolver = "3"
